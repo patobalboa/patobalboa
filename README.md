@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @patobalboa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+#Patricio Balboa
+## SysAdmin | DevOps | Cloud Engineer
 
-<!---
-patobalboa/patobalboa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Skills
+Highly skilled in the following technologies:
+
+- Linux
+- Docker, Kubernetes
+- Terraform, Ansible
+- AWS,GCP
+- High Availability
+- Cloud Architecture
+- On-premise Infrastructure
+- CD/CI (Continuous Delivery)
+- Python, Bash...
+- Monitoring and Logging (Datadog, Grafana, Elasticsearch)
+
+
+
+### CEO of [CodePlus](https://www.codeplus.cl)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.codeplus.cl/wp-content/uploads/2022/06/codeplus_blanco_06.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://www.codeplus.cl/wp-content/uploads/2022/09/codeplus_06.png">
+  <img alt="CodePlus.cl" src="https://www.codeplus.cl/wp-content/uploads/2022/06/codeplus_blanco_06.png">
+</picture>
