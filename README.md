@@ -17,7 +17,7 @@ Highly skilled in the following technologies:
 
 
 
-### CEO of [CodePlus](https://www.codeplus.cl)
+### [CodePlus](https://www.codeplus.cl)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.codeplus.cl/wp-content/uploads/2022/06/codeplus_blanco_06.png">
