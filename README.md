@@ -13,7 +13,7 @@ Highly skilled in the following technologies:
 - Cloud Architecture
 - On-premise Infrastructure
 - CD/CI (Continuous Delivery)
-- Python, Bash...
+- Python, Bash, JS, PHP, .NET
 - Monitoring and Logging (Datadog, Grafana, Elasticsearch)
 
 
